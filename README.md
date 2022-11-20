@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ptrckmyr
 - 👀 I’m interested in many things :)
-- 🌱 I’m currently learning Python, HTLM and CSS and  soon Java:Script
+- 🌱 I’m currently learning Python, HTLM and CSS and  Java:Script
 - 💞️ I’m looking to collaborate on nothing (>_<)
 - 📫 How to reach me: Twitter
 
