@@ -3,7 +3,7 @@
 🔭 I’m currently working on learning programming<br>
 👯 I’m looking to collaborate on nothing :P<br>
 🤝 I’m looking for help with<br>🌱 
-I’m currently learning my degree <br>
+I’m currently learning for my degree <br>
 💬 Ask me about<br>⚡ Fun fact: HI <3
 
 
